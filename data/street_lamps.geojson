@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3540467,
+          33.967031
+        ]
+      },
+      "properties": {
+        "id": "node/13959591209",
+        "highway": "street_lamp",
+        "lamp_mount": "pole",
+        "lamp_type": "electric",
+        "support": "pole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3551017,
+          33.9664541
+        ]
+      },
+      "properties": {
+        "id": "node/13959591210",
+        "highway": "street_lamp",
+        "lamp_mount": NaN,
+        "lamp_type": "electric",
+        "support": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3553699,
+          33.9665995
+        ]
+      },
+      "properties": {
+        "id": "node/13959591211",
+        "highway": "street_lamp",
+        "lamp_mount": "pole",
+        "lamp_type": "electric",
+        "support": "pole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3521686,
+          33.9683684
+        ]
+      },
+      "properties": {
+        "id": "node/13959591212",
+        "highway": "street_lamp",
+        "lamp_mount": "pole",
+        "lamp_type": "electric",
+        "support": "pole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3618955,
+          33.9727125
+        ]
+      },
+      "properties": {
+        "id": "node/13994839810",
+        "highway": "street_lamp",
+        "lamp_mount": NaN,
+        "lamp_type": NaN,
+        "support": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3619724,
+          33.9721147
+        ]
+      },
+      "properties": {
+        "id": "node/13994839811",
+        "highway": "street_lamp",
+        "lamp_mount": NaN,
+        "lamp_type": NaN,
+        "support": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3617131,
+          33.9739652
+        ]
+      },
+      "properties": {
+        "id": "node/13994839813",
+        "highway": "street_lamp",
+        "lamp_mount": NaN,
+        "lamp_type": NaN,
+        "support": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3616924,
+          33.9740987
+        ]
+      },
+      "properties": {
+        "id": "node/13994839814",
+        "highway": "street_lamp",
+        "lamp_mount": NaN,
+        "lamp_type": NaN,
+        "support": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3616788,
+          33.9741912
+        ]
+      },
+      "properties": {
+        "id": "node/13994839815",
+        "highway": "street_lamp",
+        "lamp_mount": NaN,
+        "lamp_type": NaN,
+        "support": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3615107,
+          33.9744563
+        ]
+      },
+      "properties": {
+        "id": "node/13994839816",
+        "highway": "street_lamp",
+        "lamp_mount": NaN,
+        "lamp_type": NaN,
+        "support": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.3602964,
+          33.9742143
+        ]
+      },
+      "properties": {
+        "id": "node/13994839817",
+        "highway": "street_lamp",
+        "lamp_mount": NaN,
+        "lamp_type": NaN,
+        "support": NaN
+      }
+    }
+  ]
+}
