@@ -30,9 +30,9 @@
       "properties": {
         "id": "node/13959591210",
         "highway": "street_lamp",
-        "lamp_mount": NaN,
+        "lamp_mount": "",
         "lamp_type": "electric",
-        "support": NaN
+        "support": ""
       }
     },
     {
@@ -81,9 +81,9 @@
       "properties": {
         "id": "node/13994839810",
         "highway": "street_lamp",
-        "lamp_mount": NaN,
-        "lamp_type": NaN,
-        "support": NaN
+        "lamp_mount": "",
+        "lamp_type": "",
+        "support": ""
       }
     },
     {
@@ -98,9 +98,9 @@
       "properties": {
         "id": "node/13994839811",
         "highway": "street_lamp",
-        "lamp_mount": NaN,
-        "lamp_type": NaN,
-        "support": NaN
+        "lamp_mount": "",
+        "lamp_type": "",
+        "support": ""
       }
     },
     {
@@ -115,9 +115,9 @@
       "properties": {
         "id": "node/13994839813",
         "highway": "street_lamp",
-        "lamp_mount": NaN,
-        "lamp_type": NaN,
-        "support": NaN
+        "lamp_mount": "",
+        "lamp_type": "",
+        "support": ""
       }
     },
     {
@@ -132,9 +132,9 @@
       "properties": {
         "id": "node/13994839814",
         "highway": "street_lamp",
-        "lamp_mount": NaN,
-        "lamp_type": NaN,
-        "support": NaN
+        "lamp_mount": "",
+        "lamp_type": "",
+        "support": ""
       }
     },
     {
@@ -149,9 +149,9 @@
       "properties": {
         "id": "node/13994839815",
         "highway": "street_lamp",
-        "lamp_mount": NaN,
-        "lamp_type": NaN,
-        "support": NaN
+        "lamp_mount": "",
+        "lamp_type": "",
+        "support": ""
       }
     },
     {
@@ -166,9 +166,9 @@
       "properties": {
         "id": "node/13994839816",
         "highway": "street_lamp",
-        "lamp_mount": NaN,
-        "lamp_type": NaN,
-        "support": NaN
+        "lamp_mount": "",
+        "lamp_type": "",
+        "support": ""
       }
     },
     {
@@ -183,9 +183,9 @@
       "properties": {
         "id": "node/13994839817",
         "highway": "street_lamp",
-        "lamp_mount": NaN,
-        "lamp_type": NaN,
-        "support": NaN
+        "lamp_mount": "",
+        "lamp_type": "",
+        "support": ""
       }
     }
   ]
