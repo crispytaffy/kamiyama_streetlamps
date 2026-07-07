@@ -26,22 +26,15 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 }).addTo(map);
 
 fetch("./data/street_lamps.geojson")
-  .then(response => {
-    if (!response.ok) {
-      throw new Error("GeoJSONを読み込めません: " + response.status);
-    }
-    return response.json();
-  })
+  .then(response => response.json())
   .then(data => {
-    console.log(data);
-
     const layer = L.geoJSON(data, {
-      onEachFeature: function(feature, layer) {
+      onEachFeature: function (feature, layer) {
         const p = feature.properties;
 
         layer.bindPopup(`
-          <strong>街灯</strong><br>
-          ID: ${p.id ?? p["@id"] ?? ""}<br>
+          <strong>街灯データ</strong><br>
+          ID: ${p.id ?? ""}<br>
           種別: ${p.highway ?? ""}<br>
           設置方法: ${p.lamp_mount ?? ""}<br>
           ランプ種別: ${p.lamp_type ?? ""}<br>
@@ -51,7 +44,7 @@ fetch("./data/street_lamps.geojson")
     }).addTo(map);
 
     map.fitBounds(layer.getBounds());
-  })
+  });
   .catch(error => {
     console.error(error);
     alert(error);
